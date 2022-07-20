@@ -8,5 +8,3 @@ The Sparks Foundation Graduate Rotational Internship Program (GRIP) - July 2022 
 ### Link to Notebook: 
 https://github.com/afathelbab/GRIP-July22/blob/main/Prediction_of_Student_Grade_using_Supervised_ML.ipynb
 
-## Task 02: Prediction of Flower Species using Un-Supervised ML
-### Requirements:
